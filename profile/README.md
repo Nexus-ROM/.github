@@ -8,3 +8,7 @@ Nexus ROM is a fork of LineageOS with a Pixel-like experience. It aims to provid
 ### Maintainership
 - Want to maintain officially for your device?
 - Message [Aryan](https://t.me/CuriousNom) or [Dheeraj](https://t.me/NotDheeraj06) on telegram
+
+### Credits
+- [PixelOS](https://github.com/PixelOS-AOSP) for Gapps
+- [LineagOS](https://github.com/LineageOS) for Base
